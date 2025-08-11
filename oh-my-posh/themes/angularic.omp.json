@@ -129,7 +129,7 @@
           "powerline_symbol": "\ue0b2",
           "foreground": "#000000",
           "background": "#F9AD00",
-          "template": "  {{ .Major }} ",
+          "template": " \ue865 {{ .Major }} ",
           "invert_powerline": true
         },
         {
